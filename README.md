@@ -44,9 +44,7 @@ An all-in-one, open-source hacking toolkit that unifies powerful offensive secur
 
 ## 🧑‍💻 Author
 
-Made by [@abdullah-x909](https://github.com/abdullah-x909) with 💻 and ChatGPT 🤖  
-No external developers – 100% self + AI powered.
-
+Made by [@abdullah-x909](https://github.com/abdullah-x909)
 ## 📜 License
 
 MIT License
